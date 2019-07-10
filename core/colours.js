@@ -26,61 +26,61 @@ Blockly.Colours = {
   // SVG colours: these must be specificed in #RRGGBB style
   // To add an opacity, this must be specified as a separate property (for SVG fill-opacity)
   "motion": {
-    "primary": "#090909",
-    "secondary": "#4280D7",
-    "tertiary": "#3373CC"
+    "primary": "#557777",
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   "looks": {
     "primary": "#9966FF",
-    "secondary": "#855CD6",
-    "tertiary": "#774DCB"
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   "sounds": {
     "primary": "#CF63CF",
-    "secondary": "#C94FC9",
-    "tertiary": "#BD42BD"
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   "control": {
-    "primary": "#FFAB19",
-    "secondary": "#EC9C13",
-    "tertiary": "#CF8B17"
+    "primary": "#021456",
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   "event": {
-    "primary": "#FFBF00",
-    "secondary": "#E6AC00",
-    "tertiary": "#CC9900"
+    "primary": "#2B2B2B",
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   "sensing": {
     "primary": "#5CB1D6",
-    "secondary": "#47A8D1",
-    "tertiary": "#2E8EB8"
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   "pen": {
     "primary": "#0fBD8C",
-    "secondary": "#0DA57A",
-    "tertiary": "#0B8E69"
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   "operators": {
     "primary": "#59C059",
-    "secondary": "#46B946",
-    "tertiary": "#389438"
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   "data": {
-    "primary": "#FF8C1A",
-    "secondary": "#FF8000",
-    "tertiary": "#DB6E00"
+    "primary": "#118888",
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   // This is not a new category, but rather for differentiation
   // between lists and scalar variables.
   "data_lists": {
     "primary": "#FF661A",
-    "secondary": "#FF5500",
-    "tertiary": "#E64D00"
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   "more": {
-    "primary": "#FF6680",
-    "secondary": "#FF4D6A",
-    "tertiary": "#FF3355"
+    "primary": "#551188",
+    "secondary": "#000000",
+    "tertiary": "#000000"
   },
   "text": "#575E75",
   "workspace": "#F9F9F9",
