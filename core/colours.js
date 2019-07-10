@@ -83,7 +83,7 @@ Blockly.Colours = {
     "tertiary": "#000000"
   },
   "text": "#575E75",
-  "workspace": "#F9F9F9",
+  "workspace": "#090909",
   "toolboxHover": "#4C97FF",
   "toolboxSelected": "#e9eef2",
   "toolboxText": "#575E75",
