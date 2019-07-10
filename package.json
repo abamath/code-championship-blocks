@@ -1,13 +1,13 @@
 {
-  "name": "scratch-blocks",
+  "name": "code-championship-blocks",
   "version": "0.1.0",
-  "description": "Scratch Blocks is a library for building creative computing interfaces.",
-  "author": "Massachusetts Institute of Technology",
+  "description": "Code Championship Blocks is a fork of Scratch blocks for a different look for older audiences.",
+  "author": "Abamath",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/LLK/scratch-blocks#readme",
+  "homepage": "https://github.com/abamath/code-championship-blocks#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LLK/scratch-blocks.git"
+    "url": "https://github.com/abamath/code-championship-blocks.git"
   },
   "main": "./dist/vertical.js",
   "browser": "./shim/vertical.js",
