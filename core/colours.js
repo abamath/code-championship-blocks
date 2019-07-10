@@ -67,7 +67,7 @@ Blockly.Colours = {
   },
   "data": {
     "primary": "#118888",
-    "secondary": "#000000",
+    "secondary": "#000001",
     "tertiary": "#000000"
   },
   // This is not a new category, but rather for differentiation
