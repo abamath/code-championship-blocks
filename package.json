@@ -1,6 +1,6 @@
 {
   "name": "code-championship-blocks",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Code Championship Blocks is a fork of Scratch blocks for a different look for older audiences.",
   "author": "Abamath",
   "license": "Apache-2.0",
@@ -8,7 +8,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/abamath/code-championship-blocks.git",
-    "sha": "65f92bbeaea6186de89c610118a99217e0e698b1"
+    "sha": "f6e41f4f44483a7d034f46dca9c0ac021b0cb9a8"
   },
   "main": "./dist/vertical.js",
   "browser": "./shim/vertical.js",
