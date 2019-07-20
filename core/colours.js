@@ -27,59 +27,59 @@ Blockly.Colours = {
   // To add an opacity, this must be specified as a separate property (for SVG fill-opacity)
   "motion": {
     "primary": "#FF7158",
-    "secondary": "#000000",
+    "secondary": "#ffffff",
     "tertiary": "#000000"
   },
   "looks": {
     "primary": "#118888",
-    "secondary": "#000000",
+    "secondary": "#ffffff",
     "tertiary": "#000000"
   },
   "sounds": {
     "primary": "#2B2B2B",
-    "secondary": "#000000",
+    "secondary": "#ffffff",
     "tertiary": "#000000"
   },
   "control": {
     "primary": "#3E7EFF",
-    "secondary": "#000000",
+    "secondary": "#ffffff",
     "tertiary": "#000000"
   },
   "event": {
     "primary": "#8E003C",
-    "secondary": "#000000",
+    "secondary": "#ffffff",
     "tertiary": "#000000"
   },
   "sensing": {
     "primary": "#1605A2",
-    "secondary": "#000000",
+    "secondary": "#1605A2",
     "tertiary": "#000000"
   },
   "pen": {
     "primary": "#0fBD8C",
-    "secondary": "#000000",
+    "secondary": "#ffffff",
     "tertiary": "#000000"
   },
   "operators": {
     "primary": "#62DC6D",
-    "secondary": "#000000",
+    "secondary": "#ffffff",
     "tertiary": "#000000"
   },
   "data": {
     "primary": "#DC6295",
-    "secondary": "#000001",
+    "secondary": "#ffffff",
     "tertiary": "#000000"
   },
   // This is not a new category, but rather for differentiation
   // between lists and scalar variables.
   "data_lists": {
     "primary": "#FF661A",
-    "secondary": "#000000",
+    "secondary": "#ffffff",
     "tertiary": "#000000"
   },
   "more": {
     "primary": "#4B74B4",
-    "secondary": "#000000",
+    "secondary": "#4B74B4",
     "tertiary": "#000000"
   },
   "text": "#575E75",
