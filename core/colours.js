@@ -43,7 +43,7 @@ Blockly.Colours = {
   "control": {
     "primary": "#3E7EFF",
     "secondary": "#ffffff",
-    "tertiary": "#000000"
+    "tertiary": "#ffffff"
   },
   "event": {
     "primary": "#8E003C",
