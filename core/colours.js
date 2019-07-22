@@ -63,7 +63,7 @@ Blockly.Colours = {
   "operators": {
     "primary": "#62DC6D",
     "secondary": "#ffffff",
-    "tertiary": "#000000"
+    "tertiary": "#ffffff"
   },
   "data": {
     "primary": "#DC6295",
